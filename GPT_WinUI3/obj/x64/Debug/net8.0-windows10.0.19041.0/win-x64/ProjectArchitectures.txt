@@ -1,0 +1,1 @@
+C:\GPT_WinUI3\GPT_WinUI3\GPT_WinUI3.csproj;x64

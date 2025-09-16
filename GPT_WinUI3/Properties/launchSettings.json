@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "GPT_WinUI3 (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "GPT_WinUI3 (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
